@@ -4,7 +4,7 @@ public class ModulusPractice
 	{
 		public static void main(String[]args)
 		{
-	//		determineLeapYear();
+			determineLeapYear();
 			playFizzBuzz();
 		}
 		
